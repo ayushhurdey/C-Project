@@ -1,5 +1,5 @@
 # C-Project
-                                 STUDENT  MANAGEMENT STSTEM
+                                 STUDENT  MANAGEMENT SYSTEM
 
 Working enviroment->  Windows 10
 
@@ -18,5 +18,5 @@ Working:
    It's login system explicitly depends on the file "Test.txt".
    Its database is written in the file "DATABASE.txt".
    It has a biased login system which contains command as per your authorisation:
-     1.Admin-Admin has the authority to add new,delete,modify,see details of any student.
-     2.User- User has the authority to see details and change password of his/her only.
+     1.Admin-> Admin has the authority to add new,delete,modify,see details of any student.
+     2.User->  User has the authority to see details and change password of his/her only.
