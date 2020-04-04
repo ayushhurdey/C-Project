@@ -1,5 +1,5 @@
 /* ********************************************************************************** */
-/* This program is developed and handled by team of  ARUN KUSHWAHA & AYUSH CHOUDHARY  */
+/* This program is developed and handled by  AYUSH CHOUDHARY                          */
 /* Also this program has been compiled and executed successfully on TURBOC3 compiler  */
 /* ********************************************************************************** */
 
