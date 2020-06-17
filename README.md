@@ -1,5 +1,5 @@
 # C-Project
-                                 STUDENT  MANAGEMENT SYSTEM
+                                                STUDENT  MANAGEMENT SYSTEM
 
 Working enviroment->  Windows 10
 
