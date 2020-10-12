@@ -1,6 +1,6 @@
 /* ********************************************************************************** */
 /* This program is developed and handled by  AYUSH CHOUDHARY                          */
-/* Also this program has been compiled and executed successfully on TURBOC3 compiler  */
+/* This program has been compiled and executed successfully on TURBOC3 compiler       */
 /* ********************************************************************************** */
 
 #include<stdio.h>
@@ -74,8 +74,8 @@ int main(){
    int gd=DETECT,gm,t=50;
    double tempx,tempy,i;
    char s[5];
-   initgraph(&gd,&gm,"c:\\turboc3\\bgi");
-   welcome();
+   initgraph(&gd,&gm,"c:\\turboc3\\bgi");  
+   welcome();     // this commented animation here can also be used here.
   /* for(i=30;i<=300;i++){
    tempx=getmaxx()/2+150*cos(t*3.14/180);
    tempy=getmaxy()/2-50*sin(t*3.14/180);
@@ -191,7 +191,7 @@ int search(char id[],char pwd[]){
 	       exit (1);
    }
   printf("\n");
-/*  for(j=1;j<words;j+=2){
+  /*  for(j=1;j<words;j+=2){
     printf("%-15s%-10s\n",buffer[j],buffer[j+1]);
   }*/
 
